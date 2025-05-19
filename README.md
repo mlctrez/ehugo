@@ -1,5 +1,8 @@
 # ehugo
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/mlctrez/ehugo)](https://goreportcard.com/report/github.com/mlctrez/ehugo)
+Replacement for [vhuego](https://github.com/mlctrez/vhugo) which has become outdated.
+
+Work in progress, stay tuned.
+ 
 
 created by [tigwen](https://github.com/mlctrez/tigwen)
